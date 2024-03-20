@@ -1,5 +1,11 @@
 # ai
 
+## 3.0.14
+
+### Patch Changes
+
+- 20007b9: feat(ai/rsc): support string diff and patch in streamable value
+
 ## 3.0.13
 
 ### Patch Changes
